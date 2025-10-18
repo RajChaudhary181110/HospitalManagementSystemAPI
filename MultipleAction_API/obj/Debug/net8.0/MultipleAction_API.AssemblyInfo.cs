@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MultipleAction_API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5aca4201d6d2011896b58f408b90e35126d79618")]
 [assembly: System.Reflection.AssemblyProductAttribute("MultipleAction_API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MultipleAction_API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

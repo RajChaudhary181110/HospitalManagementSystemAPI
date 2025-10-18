@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Practice PRJ\\HMSAPI\\MultipleAction_API\\MultipleAction_API\\MultipleAction_API.csproj": {}
+    "C:\\Practice PRJ\\Git Clone\\HospitalManagementSystemAPI\\MultipleAction_API\\MultipleAction_API.csproj": {}
   },
   "projects": {
-    "C:\\Practice PRJ\\HMSAPI\\MultipleAction_API\\MultipleAction_API\\MultipleAction_API.csproj": {
+    "C:\\Practice PRJ\\Git Clone\\HospitalManagementSystemAPI\\MultipleAction_API\\MultipleAction_API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Practice PRJ\\HMSAPI\\MultipleAction_API\\MultipleAction_API\\MultipleAction_API.csproj",
+        "projectUniqueName": "C:\\Practice PRJ\\Git Clone\\HospitalManagementSystemAPI\\MultipleAction_API\\MultipleAction_API.csproj",
         "projectName": "MultipleAction_API",
-        "projectPath": "C:\\Practice PRJ\\HMSAPI\\MultipleAction_API\\MultipleAction_API\\MultipleAction_API.csproj",
+        "projectPath": "C:\\Practice PRJ\\Git Clone\\HospitalManagementSystemAPI\\MultipleAction_API\\MultipleAction_API.csproj",
         "packagesPath": "C:\\Users\\Pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Practice PRJ\\HMSAPI\\MultipleAction_API\\MultipleAction_API\\obj\\",
+        "outputPath": "C:\\Practice PRJ\\Git Clone\\HospitalManagementSystemAPI\\MultipleAction_API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pc\\AppData\\Roaming\\NuGet\\NuGet.Config",

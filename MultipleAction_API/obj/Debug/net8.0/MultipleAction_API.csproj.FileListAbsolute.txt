@@ -1,0 +1,161 @@
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\appsettings.Development.json
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\appsettings.json
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\MultipleAction_API.staticwebassets.endpoints.json
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\MultipleAction_API.exe
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\MultipleAction_API.deps.json
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\MultipleAction_API.runtimeconfig.json
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\MultipleAction_API.dll
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\MultipleAction_API.pdb
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\Azure.Core.dll
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\Azure.Identity.dll
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\Dapper.dll
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\System.ClientModel.dll
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\System.Memory.Data.dll
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\obj\Debug\net8.0\MultipleAction_API.csproj.AssemblyReference.cache
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\obj\Debug\net8.0\rpswa.dswa.cache.json
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\obj\Debug\net8.0\MultipleAction_API.GeneratedMSBuildEditorConfig.editorconfig
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\obj\Debug\net8.0\MultipleAction_API.AssemblyInfoInputs.cache
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\obj\Debug\net8.0\MultipleAction_API.AssemblyInfo.cs
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\obj\Debug\net8.0\MultipleAction_API.csproj.CoreCompileInputs.cache
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\obj\Debug\net8.0\MultipleAction_API.MvcApplicationPartsAssemblyInfo.cs
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\obj\Debug\net8.0\MultipleAction_API.MvcApplicationPartsAssemblyInfo.cache
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\obj\Debug\net8.0\rjimswa.dswa.cache.json
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\obj\Debug\net8.0\scopedcss\bundle\MultipleAction_API.styles.css
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\obj\Debug\net8.0\staticwebassets.build.json
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\obj\Debug\net8.0\staticwebassets.build.json.cache
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\obj\Debug\net8.0\staticwebassets.development.json
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\obj\Debug\net8.0\Multiple.DA392AED.Up2Date
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\obj\Debug\net8.0\MultipleAction_API.dll
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\obj\Debug\net8.0\refint\MultipleAction_API.dll
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\obj\Debug\net8.0\MultipleAction_API.pdb
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\obj\Debug\net8.0\MultipleAction_API.genruntimeconfig.cache
+G:\Coding\AngularP\MultipleAction_API\MultipleAction_API\obj\Debug\net8.0\ref\MultipleAction_API.dll
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\obj\Debug\net8.0\MultipleAction_API.csproj.AssemblyReference.cache
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\obj\Debug\net8.0\MultipleAction_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\obj\Debug\net8.0\MultipleAction_API.AssemblyInfoInputs.cache
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\obj\Debug\net8.0\MultipleAction_API.AssemblyInfo.cs
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\obj\Debug\net8.0\MultipleAction_API.csproj.CoreCompileInputs.cache
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\obj\Debug\net8.0\MultipleAction_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\obj\Debug\net8.0\MultipleAction_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\appsettings.Development.json
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\appsettings.json
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\MultipleAction_API.exe
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\MultipleAction_API.deps.json
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\MultipleAction_API.runtimeconfig.json
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\MultipleAction_API.dll
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\MultipleAction_API.pdb
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\Azure.Core.dll
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\Azure.Identity.dll
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\Dapper.dll
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\System.ClientModel.dll
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\obj\Debug\net8.0\staticwebassets\msbuild.MultipleAction_API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\obj\Debug\net8.0\staticwebassets\msbuild.build.MultipleAction_API.props
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MultipleAction_API.props
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MultipleAction_API.props
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\obj\Debug\net8.0\scopedcss\bundle\MultipleAction_API.styles.css
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\obj\Debug\net8.0\Multiple.DA392AED.Up2Date
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\obj\Debug\net8.0\MultipleAction_API.dll
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\obj\Debug\net8.0\refint\MultipleAction_API.dll
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\obj\Debug\net8.0\MultipleAction_API.pdb
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\obj\Debug\net8.0\MultipleAction_API.genruntimeconfig.cache
+C:\Practice PRJ\HMSAPI\MultipleAction_API\MultipleAction_API\obj\Debug\net8.0\ref\MultipleAction_API.dll

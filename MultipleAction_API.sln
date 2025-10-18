@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultipleAction_API", "MultipleAction_API\MultipleAction_API.csproj", "{52ECE398-C4C9-4A02-B97A-404B761F730E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52ECE398-C4C9-4A02-B97A-404B761F730E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52ECE398-C4C9-4A02-B97A-404B761F730E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52ECE398-C4C9-4A02-B97A-404B761F730E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52ECE398-C4C9-4A02-B97A-404B761F730E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09C8171B-2A16-45EE-9981-B36CB85BF8CB}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,60 @@
+[
+  {
+    "ContainingType": "MultipleAction_API.Controllers.DasboardColtroller",
+    "Method": "GetUserList",
+    "RelativePath": "api/DasboardColtroller/GetUserList",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultipleAction_API.Controllers.LoginSignUp",
+    "Method": "ForgotPassword",
+    "RelativePath": "api/Patient/ForgotPassword",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "MultipleAction_API.Models.LoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultipleAction_API.Controllers.LoginSignUp",
+    "Method": "LoginAuth",
+    "RelativePath": "api/Patient/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "LoginId",
+        "Type": "MultipleAction_API.Models.LoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultipleAction_API.Controllers.LoginSignUp",
+    "Method": "Registration",
+    "RelativePath": "api/Patient/Registration",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "MultipleAction_API.Models.UserRegisterModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

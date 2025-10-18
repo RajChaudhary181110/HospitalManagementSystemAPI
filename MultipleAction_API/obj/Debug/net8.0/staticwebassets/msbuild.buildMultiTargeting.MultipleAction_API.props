@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MultipleAction_API.props" />
+</Project>
